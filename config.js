@@ -26,12 +26,12 @@ module.exports = {
   WELCOME_MSG: process.env.WELCOME_MSG || "Hi @user Welcome to @gname",
   GOODBYE_MSG: process.env.GOODBYE_MSG || "Hi @user It was Nice Seeing you",
   AUTHOR: process.env.AUTHOR || "X-electra",
-  SUDO: process.env.SUDO || "918113921898,916238316024",
+  SUDO: process.env.SUDO || "917593010965",
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || "",
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
-  OWNER_NAME: process.env.OWNER_NAME || "Neeraj-X0",
-  BOT_NAME: process.env.BOT_NAME || "X-asena",
-  WORK_TYPE: process.env.WORK_TYPE || "public",
+  OWNER_NAME: process.env.OWNER_NAME || "Jobin-ser",
+  BOT_NAME: process.env.BOT_NAME || "UA-asena",
+  WORK_TYPE: process.env.WORK_TYPE || "private",
   DATABASE_URL: DATABASE_URL,
   DATABASE:
     DATABASE_URL === "./assets/database.db"
